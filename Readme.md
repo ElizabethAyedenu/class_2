@@ -1,0 +1,1 @@
+This is a demo bank system that enables a bank to  verify the eligibility of their customer for a loan
